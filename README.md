@@ -55,3 +55,7 @@ Resultado obtenido:
 5 passed in 0.05s
 
 Todas las pruebas se ejecutaron correctamente.
+
+### Captura de la ejecución
+
+![Resultado de las pruebas con pytest](evidencias/pytest.png)
