@@ -45,3 +45,13 @@ Permite realizar conversiones de temperatura, distancia y moneda.
 Para ejecutar las pruebas se utiliza:
 
 python -m pytest -v
+
+## Evidencia de ejecución
+
+Las pruebas fueron ejecutadas desde la terminal utilizando pytest.
+
+Resultado obtenido:
+
+5 passed in 0.05s
+
+Todas las pruebas se ejecutaron correctamente.
